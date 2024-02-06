@@ -11,5 +11,5 @@ To test the exercise, open a terminal at the root of the project and execute the
 - just open index.html
 - All steps are explained in the script.js file
 
-## A Page for Managers
-- https://leave-manager.vercel.app
+## A Page for Leave Manager
+- https://purse-front.vercel.app
